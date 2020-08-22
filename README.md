@@ -237,7 +237,7 @@ Mix release offers us a very quick way to build a release of our application. Ho
 
 ## Season break!
 
-[images/tumblr_ns2v6ccj521sg05bjo4_500.webp](images/tumblr_ns2v6ccj521sg05bjo4_500.webp)
+![images/tumblr_ns2v6ccj521sg05bjo4_500.webp](images/tumblr_ns2v6ccj521sg05bjo4_500.webp)
 
 🎶 [https://youtu.be/MWH3h5LdkxA](https://youtu.be/MWH3h5LdkxA)
 
@@ -284,11 +284,12 @@ Phoenix is to Elixir what Rails is to Ruby, arguably Phoenix has been one of the
 
 Phoenix Live View is a relatively new addition to Phoenix, and enables users to create server rendered templates that can compete with the likes of React by being able to send partial state updates to the user. Compared to other frameworks where whenever an update happens, the entire page is sent, Phoenix Live View offers incredible performance as well as ease to setup and get started with. Take a look at the video below to get an idea of what you can achieve with Phoenix and Phoenix LiveView. 
 
-[![Phoenix LiveView](https://img.youtube.com/vi/MZvmYaFkNJI/0.jpg)](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 
 ### Project Suggestions + Ideas
 
 For the final stage in the course we'd like you to create your own project that takes advantage of Phoenix + Ecto. There's no other requirements, other than to use these two libraries (if you install Phoenix, Ecto comes included 😉). Phoenix Live View is also worth taking a look into, as it can help save you from writing any JavaScript in your project. Check out the following video to get an idea of what you can achieve with Live View.
+
+[![Phoenix LiveView](https://img.youtube.com/vi/MZvmYaFkNJI/0.jpg)](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 
 Project Ideas (they are just proposals)
 
