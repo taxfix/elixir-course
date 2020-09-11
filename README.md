@@ -6,13 +6,13 @@ The content of the Elixir course is covered by the **Creative Commons (by-nc-sa)
 ![images/the-simpsons.png](images/the-simpsons.png)
 
 This course is an **asynchronous** course that it is running in
-![Taxfix](https://taxfix.de/en/) to give the opportunity to developers who are
+[Taxfix](https://taxfix.de/en/) to give the opportunity to developers who are
 not (yet) confident to Elixir to power up their skills.
 
 This course, is also an open to contribution course! We decided to open it to
 everyone to give back to the Elixir community. 👐
 
-We are also sharing the slides of the talk ![Drinking a little bit of Elixir](talk/Drinking-a-little-bit-of-elixir.html.tar.gz)
+We are also sharing the slides of the talk [Drinking a little bit of Elixir](talk/Drinking-a-little-bit-of-elixir.html.tar.gz)
 that was delivered to initiate this Elixir course.
 
 ## Episode 0
@@ -215,7 +215,7 @@ Every challenge has a **set of failing tests** that you have to make it **succes
 
 **Everyone** in an **exercism team** can **review** the **solution** to a **challenge** of the i**nsert coin team** or get **inspired** by **other insert coin team members solutions**
 
-### **Use this link to use to join the "insert coin" exercism team and choose the "Free form Track"**
+### **Use this link to use to join the "insert coin" exercism team**
 
 [https://teams.exercism.io/teams/NDQGCdvzZkK56nfMtNVqWdYg/join](https://teams.exercism.io/teams/NDQGCdvzZkK56nfMtNVqWdYg/join)
 
@@ -254,11 +254,13 @@ The original setup consists of an infinite, 2-dimensional grid of cells, and eac
 
 And it looks something like the following (but this is a finite 2d grid)
 
-[https://camo.githubusercontent.com/aa8c99f5cf763884b878f700807539aa56dba266/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65352f476f73706572735f676c696465725f67756e2e676966](https://camo.githubusercontent.com/aa8c99f5cf763884b878f700807539aa56dba266/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65352f476f73706572735f676c696465725f67756e2e676966)
+![https://camo.githubusercontent.com/aa8c99f5cf763884b878f700807539aa56dba266/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65352f476f73706572735f676c696465725f67756e2e676966](https://camo.githubusercontent.com/aa8c99f5cf763884b878f700807539aa56dba266/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65352f476f73706572735f676c696465725f67756e2e676966)
 
 And ours will look more like this (just the looks, it is not actually following any of the rules).
 
 ![https://github.com/ggpasqualino/workshop-elixir-game-of-life/raw/main/docs/dynamic-game.gif](https://github.com/ggpasqualino/workshop-elixir-game-of-life/raw/main/docs/dynamic-game.gif)
+
+You may follow your heart for that or [these other instructions](https://github.com/ggpasqualino/workshop-elixir-game-of-life) 😉
 
 ### Bot Project
 
