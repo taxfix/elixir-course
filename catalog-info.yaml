@@ -3,11 +3,9 @@ kind: Component
 metadata:
   name: elixir-course
   description: ""
-  annotations: []
 spec:
   type: other
   lifecycle: production
   domain: tax-platform
   system: unknown
   owner: tax-core
-relations: []
