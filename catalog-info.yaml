@@ -5,7 +5,7 @@ metadata:
   description: ""
 spec:
   type: other
-  lifecycle: production
+  lifecycle: deprecated
   domain: tax-platform
   system: unknown
   owner: tax-core
